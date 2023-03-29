@@ -1,0 +1,17 @@
+[
+  {
+    "id": "jin",
+    "password": "1234",
+    "email": "ellenher@naver.com"
+  },
+  {
+    "id": "daljae",
+    "password": "5678",
+    "email": "daljaepark@naver.com"
+  },
+  {
+    "id": "jieun",
+    "password": "9101",
+    "email": "jieun@naver.com"
+  }
+]
