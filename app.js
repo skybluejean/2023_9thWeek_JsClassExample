@@ -41,7 +41,7 @@ console.log(d);
 console.log(e);
 console.log(f);
 
-
+////////////////////////////////
 
 
 let names = ['jin','daljae','jieun'];
@@ -53,6 +53,7 @@ for(let i = 0; i < 3; i++){
     members.push(new user(names[i], passwords[i], emails[i]));
 }
 
+//null과 2를 입력하면 json파일이 보기좋게 정렬된다.
 fs.writeFileSync('members.JSON',JSON.stringify(members, null, 2), "utf-8");
 
 console.dir(members);

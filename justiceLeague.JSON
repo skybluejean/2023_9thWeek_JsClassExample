@@ -1,0 +1,57 @@
+[
+  {
+    "hero": "Superman",
+    "name": "Clark kent",
+    "address": "Metropolis City"
+  },
+  {
+    "hero": "Batman",
+    "name": "Bruce wayne",
+    "address": "Gotham City"
+  },
+  {
+    "hero": "Woderwoman",
+    "name": "Diana prince",
+    "address": "Amazoness"
+  },
+  {
+    "hero": "Aquaman",
+    "name": "Arthur curry",
+    "address": "Atlantis"
+  },
+  {
+    "hero": "Flash",
+    "name": "Barry allen",
+    "address": "Central City"
+  },
+  {
+    "hero": "Green lantern",
+    "name": "Hal jordon",
+    "address": "Coast City"
+  },
+  {
+    "hero": "Cyborg",
+    "name": "Victor vic stone",
+    "address": "Saltlake City"
+  },
+  {
+    "hero": "Hawkgirl",
+    "name": "Kendra saunders",
+    "address": "Midway City"
+  },
+  {
+    "hero": "Martian manhunter",
+    "name": "John jones",
+    "address": "Mars"
+  },
+  {
+    "hero": "Shazam",
+    "name": "Billy batson",
+    "address": "Newyork City"
+  },
+  {
+    "hero": "Green arrow",
+    "name": "Oliver queen",
+    "address": "Star City"
+  }
+]

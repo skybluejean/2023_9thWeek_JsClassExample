@@ -52,7 +52,7 @@ module.exports = function searching(array, name){
     "허진",
   ];
 
-  class user{
+  class User{
     constructor(order,name){
         this.order = order;
         this.name = name;
@@ -68,6 +68,8 @@ module.exports = function searching(array, name){
   studentList.forEach((student,index) => {
     test.push(new User(index, student));
   });
+
+  console.log(test);
 
 
 /*
